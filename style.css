@@ -6,3 +6,25 @@ h1 {
   color: white;
   text-align: center;
 }
+.song-box {
+            background-color: #ffffff;
+            border: 2px solid #d4d4d4;
+            border-radius: 8px;
+            margin: 10px;
+            padding: 20px;
+            width: 200px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .song-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #333333;
+            margin-bottom: 10px;
+        }
+
+        .song-number {
+            font-size: 14px;
+            color: #555555;
+        }
