@@ -1,6 +1,6 @@
 body{
    background-color: lightblue;
-   flex-wrap: wrap
+   flex-wrap: wrap;
 }
 
 h1 {
@@ -16,14 +16,14 @@ h1 {
             width: 200px;
             text-align: center;
             display: inline-block;
-        }
+ }
 
-        .song-title {
+ .song-title {
             font-size: 16px;
             font-weight: bold;
             color: #333333;
             margin-bottom: 10px;
-        }
+  }
 
         .song-number {
             font-size: 14px;
